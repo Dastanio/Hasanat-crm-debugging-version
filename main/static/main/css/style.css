@@ -1,0 +1,9 @@
+.left {
+	height: 830px;
+	width: 20%;
+	background-color: silver;
+	border: 2px solid black;
+	float: left;
+	padding: 50px;
+}
+
